@@ -3,6 +3,6 @@ const server = require("..//Controllers/data");
 
 const datarouter = express.Router();
 
-datarouter.route("/home").get(server.apicontroller);
+datarouter.route("/products").get(server.apicontroller);
 
 module.exports = datarouter;
