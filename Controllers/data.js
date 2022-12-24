@@ -31,13 +31,9 @@ const data=(req,res)=>{
           {
             id:8,
             img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
-          },
-        ]
-    
-    ]);
-
-    
-};
+          }
+        ]);
+      }
 module.exports.apicontroller=data;
 
 
