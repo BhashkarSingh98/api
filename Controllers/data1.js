@@ -14,15 +14,15 @@ const data1=(req,res)=>{
       },
       {
         id:4,
-        img:"https://media.istockphoto.com/id/1311574382/photo/blue-t-shirt-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=3aHoYgSUnlX8MaEtQ__mO7mInI_kCst10kfBYmpJf48=",
+        img:"https://pngimg.com/uploads/jeans/small/jeans_PNG5773.png",
       },
       {
         id:5,
-        img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+        img:"https://www.pngall.com/wp-content/uploads/5/Shirt-PNG-File.png",
       },
       {
         id:6,
-        img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+        img:"https://pngimg.com/uploads/jeans/small/jeans_PNG5747.png",
       },
       {
         id:7,
@@ -30,7 +30,7 @@ const data1=(req,res)=>{
       },
       {
         id:8,
-        img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+        img:"https://www.pngall.com/wp-content/uploads/5/Long-Sleeve-Shirt-PNG-Image.png",
       },
         ]);
       }
