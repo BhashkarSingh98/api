@@ -2,7 +2,7 @@ const data1=(req,res)=>{
     res.send([
       {
         id:1,
-        img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+        img:"https://pngimg.com/uploads/jeans/small/jeans_PNG5776.png",
       },
       {
         id:2,
