@@ -11,7 +11,7 @@ const datarouter2 = express.Router();
 const datarouter3 = express.Router();
 const datarouter4 = express.Router();
 
-datarouter.route("/products1").get(server.apicontroller);
+datarouter.route("/data").get(server.apicontroller);
 datarouter1.route("/men").get(server1.apicontroller1);
 datarouter1.route("/women").get(server2.apicontroller2);
 datarouter1.route("/kids").get(server3.apicontroller3);
