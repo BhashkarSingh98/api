@@ -1,7 +1,7 @@
 const express=require("express")
 const cors=require("cors");
-app.use(cors());
 const app=express();
+app.use(cors());
 
 const {datarouter,datarouter1,datarouter2,datarouter3,datarouter4}=require("./Routes/data");
 
